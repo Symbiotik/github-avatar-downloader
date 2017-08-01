@@ -1,0 +1,24 @@
+{
+  "name": "github-avatar-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download-image-by-url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symbiotik/github-avatar-downloader.git"
+  },
+  "keywords": [],
+  "author": "Garnet Mesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Symbiotik/github-avatar-downloader/issues"
+  },
+  "homepage": "https://github.com/Symbiotik/github-avatar-downloader#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.81.0"
+  }
+}
